@@ -1,5 +1,7 @@
 # Portfolio Optimization Using Conditional Value-at-Risk (CVaR)
 
+My contribution: I worked across this project with my team and focused on Part 3 (minimizing the maximum monthly CVaR) and Part 4 (the monthly rebalancing strategy). I also contributed the visualization comparing monthly CVaR across both portfolios and worked with the team on the final analysis report we submitted.
+
 ## Project Overview
 This project applies **linear programming** techniques to construct and evaluate **risk-aware investment portfolios** using **Conditional Value-at-Risk (CVaR)** as the primary risk measure.
 
